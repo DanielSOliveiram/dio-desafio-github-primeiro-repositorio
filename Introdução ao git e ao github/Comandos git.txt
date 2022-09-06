@@ -1,0 +1,15 @@
+clonar repositorio
+git clone
+
+Adicionar todos os arquivos/diretórios
+git add .
+
+Comitar um arquivo
+git commit meu_arquivo.txt
+
+enviar arquivo
+git push
+
+Atualizar os arquivos no branch atual
+git pull
+
